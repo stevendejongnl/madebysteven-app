@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "madebysteven-app",
-    "slug": "madebysteven-app",
+    "slug": "madebysteven",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "45ba6817-3896-4aa1-a5ed-b049d3e8326b"
+      }
+    },
+    "owner": "stevendejong"
   }
 }
